@@ -1,0 +1,295 @@
+body {
+  font-family: sans-serif !important;
+  /* background-image: url("images/desk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+
+}
+
+/* .navbar{
+  background-image: url("images/desk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+nav .navbar-nav li a{
+  color: white;
+
+  }
+
+#firstSection{
+
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url('images/desk.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 667px;
+  /* padding-bottom: 150px; */
+
+    position: relative;
+    margin: auto;
+
+}
+
+.container{
+
+  position: relative;
+  margin: auto;
+
+}
+
+.digitalExperience{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  outline: 1px solid white;
+  margin: auto;
+  width: 40%;
+  text-align: center;
+  padding: 100px;
+  color: white;
+  transform: translate(-50%, -50%);
+}
+
+.digitalExperience h1,.btn{
+  padding-bottom: 10px;
+}
+
+/* .paddingdiv{
+  padding-top: 150px;
+} */
+
+#secondSection{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url('images/planning.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.story{
+  display: block;
+  text-align: left;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+  padding-bottom: 300px;
+}
+
+.storytitle{
+  padding-bottom: 20px;
+  }
+
+#thirdSection{
+  background-color: #F0F0F0;
+
+
+}
+
+#thirdSection .container{
+
+  padding-top: 50px;
+  /* margin-top: -55px ; */
+  background-color: white;
+  z-index: 50;
+  text-align: center;
+  position: relative;
+    top: -200px;
+
+}
+
+ .projecttitle{
+   display: block;
+  padding: 0 100px 30px 100px;
+  margin: auto;
+}
+
+.projectimage{
+  display: block;
+  margin: auto;
+  */
+  padding-top: 50px;
+  width: 100%;
+}
+
+.projectcontent{
+  display: block;
+  margin: auto;
+  padding-top: 30px;
+  /* padding-bottom: 30px; */
+  text-align: left;
+  margin: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.projectstyle{
+  font-style: italic;
+  padding-bottom: 50px;
+}
+
+
+.design{
+  /* padding: 150px 50px 100px 50px; */
+}
+
+.designcontent{
+  text-align: right;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  margin-right: 250px;
+}
+
+.designimage{
+  width: 300px;
+  height: 200px;
+  padding-top: 50px;
+  margin-left: 250px;
+  padding-left: 50px;
+
+}
+
+.redbar{
+  height: 10px;
+  background-color: #DC143C;
+}
+
+#fourthSection{
+  text-align: center;
+  /* margin-left: 550px;
+  margin-right: 550px; */
+}
+
+.teamtitle{
+  /* padding: 50px 100px 30px 100px; */
+  display: block;
+  margin: auto;
+
+}
+
+.teamimage{
+  width:200px ;
+  height:250px ;
+  display: block;
+  margin: auto;
+  /* padding-bottom: 20px;
+  padding-right: 20px; */
+
+}
+
+.teamcontent{
+  display: block;
+  margin: auto;
+  /* margin: 0 200px 0 200px; */
+  /* padding-bottom: 80px; */
+}
+
+/* #fifthSection{
+
+} */
+
+.workandclients{
+  background-color: #303030;
+  color: white;
+  text-align: center;
+ padding: 100px 500px 130px 500px;
+}
+
+.work{
+  text-align: center;
+  margin-top: -120px;
+}
+
+.workimage{
+  width: 300px;
+  height: 300px;
+}
+
+.clients{
+  background-color: #F8F8F8;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.clientimage{
+  width: 100px;
+  height: 100px;
+  padding-left: 30px;
+  padding-top: 50px;
+
+}
+
+.techno{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('images/technology.jpg');
+  background-repeat: no-repeat;
+
+
+}
+
+.creative{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('images/creative.jpg');
+  background-repeat: no-repeat;
+
+}
+
+.create{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('images/create.jpg');
+  background-repeat: no-repeat;
+
+}
+
+.quotetitle{
+  color: white;
+  text-align: left;
+  padding-top: 250px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.quote{
+  color: white;
+    text-align: left;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+
+
+
+#footer{
+  background-color: #181818;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.social-icon{
+  padding: 15px 5px;
+}
+
+.hrfooter{
+  width: 50%;
+  margin-left: 25% !important;
+  margin-right: 25% !important;
+}
+
+.social-icon:hover{
+  color: #A9A9A9;
+}
+
+.social-icon::before{
+  color: white;
+}
+
+ a {
+color: white !important;
+}
+
+.logo{
+  width: 200px;
+  height: 100px;
+}
